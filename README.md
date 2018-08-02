@@ -6,7 +6,8 @@
 1. Pull project in your local system.
 2. Move to project's root directory 
 3. Run `npm install`
-4. Open browser hit `http://localhost:3000`
+4. Then, run `npm start`
+5. Open browser hit `http://localhost:3000`
 
 
 ### Enjoy!
